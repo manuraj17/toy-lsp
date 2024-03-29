@@ -1,6 +1,0 @@
-[toy-lsp]2024/03/29 23:00:24 main.go:15: TOY LSP Started
-[toy-lsp]2024/03/29 23:00:24 main.go:32: Received msg with method: initialize
-[toy-lsp]2024/03/29 23:00:24 main.go:41: Connected to: Neovim 0.9.5
-[toy-lsp]2024/03/29 23:00:24 main.go:53: Sent the reply
-[toy-lsp]2024/03/29 23:00:25 main.go:32: Received msg with method: initialized
-[toy-lsp]2024/03/29 23:15:02 main.go:32: Received msg with method: shutdown

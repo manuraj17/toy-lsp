@@ -1,5 +1,6 @@
+-- Connecting to an lsp via lua for nvim
 vim.lsp.start({
-  name = "emoji-lsp",
+  name = "toy-lsp",
   cmd = { "./bin/toy-lsp" },
   root_dir = vim.fn.getcwd(),
 })
